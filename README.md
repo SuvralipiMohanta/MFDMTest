@@ -110,22 +110,3 @@ To contribute to <project_name>, follow these steps:
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
 4. Push to the original branch: `git push origin <project_name>/<location>`
 5. Create a Pull Request.
-
-Additionally you can see the GitHub documentation on [creating a Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-
-<!-- ## Contributors
-
-Thanks to the following people who have contributed to this project:
-
-* @RodolfoFerro 📖💻 -->
-
-
-## Contact
-
-If you want to contact me you can reach me at <rodolfoferroperez@gmail.com>. There, or through any other of my social profiles your can find at: <https://rodolfoferro.glitch.me/>
-
-
-## License
-
-This project uses an [MIT License](https://github.com/RodolfoFerro/docker-flask-api/blob/master/LICENSE).
